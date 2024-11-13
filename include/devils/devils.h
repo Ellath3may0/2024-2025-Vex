@@ -52,6 +52,8 @@
 #include "odom/trackingWheelOdom.hpp"
 #include "odom/differentialWheelOdom.hpp"
 #include "odom/transformOdom.hpp"
+#include "odom/OdomConstants.hpp"
+#include "odom/deadWheelIMUOdom.hpp"
 
 // Path
 #include "path/pathGenerator.hpp"
